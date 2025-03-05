@@ -31,5 +31,5 @@ Welcome to my project storage. I'm a Quality Assurances Specialists (Automation)
 
 <hr>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kingdomax&label=PROFILE+VIEW&style=for-the-badge" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=pjitthamma&label=PROFILE+VIEW&style=for-the-badge" alt="visitors" />
 </p>
